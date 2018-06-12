@@ -3,7 +3,7 @@
   "displayName": "copy paste path linux",
   "description": "copy paste path linux",
   "version": "0.2.0",
-  "publisher": "x",
+  "publisher": "sailhenz",
   "engines": {
     "vscode": "^1.23.0"
   },
