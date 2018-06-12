@@ -1,7 +1,7 @@
 {
-  "name": "copy-paste-path-linux",
-  "displayName": "copy paste path linux",
-  "description": "copy paste path linux",
+  "name": "copy-path-linux",
+  "displayName": "Copy Linux Like Path",
+  "description": "Copy Linux Like Path",
   "version": "0.3.0",
   "publisher": "sailhenz",
   "engines": {
