@@ -2,7 +2,7 @@
   "name": "copy-paste-path-linux",
   "displayName": "copy paste path linux",
   "description": "copy paste path linux",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "x",
   "engines": {
     "vscode": "^1.23.0"
